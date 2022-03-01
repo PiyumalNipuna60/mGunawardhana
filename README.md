@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning   Java , JS , Ui & Ux
 
+- 👨‍💻 interested in  **UI & UX**
+
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **mrgunawardhana27368@gmail.com**
