@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning   **Java , JS**
 
-- 💻 interested in  **UI & UX**
+- 💻 Interested in  **UI & UX**
 
 - 💬 Ask me about **Java**
 
