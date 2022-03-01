@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
-- 🌱 I’m currently learning   Java , JS , Ui & Ux
+- 🌱 I’m currently learning   **Java , JS**
 
-- 👨‍💻 interested in  **UI & UX**
+- 💻 interested in  **UI & UX**
 
 - 💬 Ask me about **Java**
 
