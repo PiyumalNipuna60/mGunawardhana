@@ -3,13 +3,13 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3><br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
-- 🌱 I’m currently learning   **Java , JS**
+🟡 🌱 I’m currently learning   **Java , JS**
 
-- 💻 Interested in  **UI & UX**
+🟡 💻 Interested in  **UI & UX**
 
-- 💬 Ask me about **Java**
+🟡 💬 Ask me about **Java**
 
-- 📫 How to reach me **mrgunawardhana27368@gmail.com**
+🟡 📫 How to reach me **mrgunawardhana27368@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
