@@ -1,4 +1,4 @@
-<img src="https://www.desktopbackground.org/p/2013/08/20/626035_high-resolution-nature-wallpapers-natural-cool-images-sky_2651x1813_h.jpg">
+<img src="https://img.freepik.com/free-photo/sunset-savannah_1048-4710.jpg?w=1060">
 <h1 align="center">Hi 👋, I'm mGunawardhana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
