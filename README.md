@@ -1,4 +1,4 @@
-<img src="https://www.teahub.io/photos/full/366-3666848_back-ground-image-nature.jpg">
+<img src="https://www.desktopbackground.org/p/2013/08/20/626035_high-resolution-nature-wallpapers-natural-cool-images-sky_2651x1813_h.jpg">
 <h1 align="center">Hi 👋, I'm mGunawardhana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
