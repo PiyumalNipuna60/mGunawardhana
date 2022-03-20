@@ -9,6 +9,8 @@
 
 🟡 💬 Ask me about **Java**
 
+🟡 📫 **Hire me on UpWork**
+
 🟡 📫 How to reach me **mrgunawardhana27368@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
