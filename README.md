@@ -3,6 +3,8 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3><br>
 <img align="right" alt="Coding" width="300" height ="300 " src="https://hybridtechsol.com/wp-content/uploads/2021/04/39998-web-development.gif"><br>
 
+<br>
+
 🟡 🌱 I’m currently learning   **Java , JS**
 
 🟡 💻 Interested in  **UI & UX**
@@ -38,10 +40,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mGunawardhana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mGunawardhana?tab=followers)
 
 <br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mGunawardhana&theme=monokai)
-
-<br>
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mGunawardhana&theme=monokai) -->
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
