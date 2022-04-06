@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/hexagonal-infographic-white-background-template_1017-19276.jpg?w=1380">
+<img width="1000" height ="500" src="https://wallpaperaccess.com/full/485284.jpg">
 <h1 align="center">Hi 👋, I'm mGunawardhana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3><br>
 <img align="right" alt="Coding" width="300" height ="300 " src="https://hybridtechsol.com/wp-content/uploads/2021/04/39998-web-development.gif"><br>
