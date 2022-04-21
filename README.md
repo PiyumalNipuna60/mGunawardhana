@@ -5,11 +5,11 @@
 
 <br>
 
-🟡 🌱 I’m currently learning   **Java , JS**
+🟡 🌱 I’m currently learning   **Java , JS , Golang , Python**
 
-🟡 💻 Interested in  **UI & UX**
+🟡 💻 Interested in  **UI & UX , Cloud Computing**
 
-🟡 💬 Ask me about **Java**
+🟡 💬 Ask me about **Java , Go**
 
 🟡 🤑 **Hire me on UpWork**
 
