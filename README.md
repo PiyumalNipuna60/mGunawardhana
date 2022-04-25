@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="mgunawardhana" /> </p>
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+
 
 - 🌱 I’m currently learning **Java , JS , Go , Python**
 
