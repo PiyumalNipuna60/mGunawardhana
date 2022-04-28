@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm mGunawardhana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 &nbsp;
-<img  src="https://user-images.githubusercontent.com/100486080/165790310-5bff6d05-4646-417b-9e73-a50a1f8f6701.gif" width="400" height="300"  align = "right">
+&nbsp;
+&nbsp;
+<img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cm9c1dtopba5gz6ororwryig94x760uhhpvztvy8&rid=giphy.gif&ct=g" width="400" height="300"  align = "right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="mgunawardhana" /> </p>
