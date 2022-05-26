@@ -5,7 +5,8 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cm9c1dtopba5gz6ororwryig94x760uhhpvztvy8&rid=giphy.gif&ct=g" width="400" height="300"  align = "right">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="mgunawardhana" /> </p>
@@ -13,6 +14,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)<br>
 
 
+    
 - 🌱 I’m currently learning **Java , JS , Go , Python**
 
 - 👯 I’m looking to collaborate on **Cloud based projects**
@@ -20,6 +22,15 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **mrgunawardhana27368@gmail.com**
+
+
+
+  
+<img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cm9c1dtopba5gz6ororwryig94x760uhhpvztvy8&rid=giphy.gif&ct=g"  width="400" height="300"/>
+    
+ 
+  
+
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
