@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Java and Html5**
 
-- 📫 How to reach me **mrgunawardhana27368@gmail.com**
+- 📫 How to reach me **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
 <img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cm9c1dtopba5gz6ororwryig94x760uhhpvztvy8&rid=giphy.gif&ct=g"  width="400" height="300"/>
 
