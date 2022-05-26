@@ -15,7 +15,9 @@
 
 - 👯 I’m looking to collaborate on **Cloud based projects**
 
-- 💬 Ask me about **Java**
+- 📝 I regularly write articles on [https://futuretech1236.blogspot.com/](https://futuretech1236.blogspot.com/)
+
+- 💬 Ask me about **Java and Html5**
 
 - 📫 How to reach me **mrgunawardhana27368@gmail.com**
 
