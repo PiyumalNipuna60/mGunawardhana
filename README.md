@@ -25,7 +25,10 @@
 
 <br><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mGunawardhana&theme=blueberry_duo"/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">|
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
+  
+
 
   
 <br>
