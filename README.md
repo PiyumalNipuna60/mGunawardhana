@@ -25,8 +25,9 @@
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgunawardhana&show_icons=true&locale=en&layout=compact" alt="mgunawardhana" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mGunawardhana&theme=blueberry_duo"/>
 
+  
 <br>
 
 <h3 align="left">Connect with me:</h3>
