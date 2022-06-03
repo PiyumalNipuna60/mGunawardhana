@@ -22,7 +22,11 @@
 
 - 📫 How to reach me **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&width=800&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
+
 <img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cm9c1dtopba5gz6ororwryig94x760uhhpvztvy8&rid=giphy.gif&ct=g"  width="400" height="300"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&width=800&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
 <br><br>
 
