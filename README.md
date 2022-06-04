@@ -52,5 +52,10 @@
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/mGunawardhana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mGunawardhana" /></a></p><br><br>
+<p/>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=d35400&width=700&lines=---------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=F1C40F&width=700&lines=if+you+have+any+bug+or+issue+contact+me+on+what's+app+-+071+9043372)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=d35400&width=700&lines=---------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
