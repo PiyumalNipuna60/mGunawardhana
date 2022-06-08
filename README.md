@@ -1,7 +1,7 @@
-<!-- <img  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogHeader_Set2_A.max-1000x1000.png">
- -->
-<img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
+<img  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogHeader_Set2_A.max-1000x1000.png">
 
+<!-- <img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
+ -->
 <h1 align="center">Hi 👋, I'm mGunawardhana</h1>
 
 
