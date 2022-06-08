@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Java and Html5**
 
-- Google dev - https://g.dev/mGunawardhana/
+- 👩🏻‍💻 Google dev - https://g.dev/mGunawardhana/
 
 - 📫 How to reach me **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
