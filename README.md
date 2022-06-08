@@ -40,6 +40,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">|
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
+ 
+ <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&langs_count=5&theme=github_dark" alt="mGunawardhana | My GitHub Language Stats" /></a>
   
 
 
