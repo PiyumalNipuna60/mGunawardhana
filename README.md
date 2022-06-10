@@ -40,10 +40,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">|
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
- 
- <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&langs_count=5&theme=github_dark" alt="mGunawardhana | My GitHub Language Stats" /></a>
-  
-
+   
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA502&width=600&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 <br>
