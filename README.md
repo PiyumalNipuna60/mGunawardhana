@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
   
-- 🌱 I’m currently learning **Java , JS , Go , Python**
+- 🌱 I’m currently learning - **Java , Kotlin , JS**
 
 - 👯 I’m looking to collaborate on **Cloud based projects**
 
