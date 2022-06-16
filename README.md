@@ -38,15 +38,17 @@
 
 <br><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">|
+<p><img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
-   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&layout=compact&theme=github_dark"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA502&width=600&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 <br>
 
 <p align="left">
 <a href="https://www.hackerrank.com/@mnshgnwardhana61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mnshgnwardhana61" height="30" width="40" /></a>
+ 
+
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=C4E538&width=600&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
